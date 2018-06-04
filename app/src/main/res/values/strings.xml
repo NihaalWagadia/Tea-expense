@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tea expenser</string>
+    <string name="title_activity_types_of_tea">Types of tea</string>
+    <string name="title_activity_checked_box_passed">Enter price</string>
+    <string name="title_activity_input_tea">InputTea</string>
+    <string name="title_activity_expense_list">ExpenseList</string>
+    <string name="title_activity_main">Select Date</string>
+    <string name="title_activity_inputandoutput">Transaction</string>
+
+
+</resources>
