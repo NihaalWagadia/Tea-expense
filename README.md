@@ -1,0 +1,2 @@
+# Tea-expense
+This application is developed for tea vendors. Tea expense tracker is an android application which helps the user to identify their profit/loss for the day including the expenses for the raw material. It takes all the material that will be used for a day and their respective prices. Based on this all the calculation will be done at the end of the day to know whether there was profit or loss. All the transactions are stored in the database, allowing the user to track the same for the respective day.
